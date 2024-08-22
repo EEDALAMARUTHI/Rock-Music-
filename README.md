@@ -22,6 +22,24 @@ This slide highlights a query that identifies the most senior employee within th
 This slide presents a query to determine the customer who has spent the most money, [thus identifying the top customer for potential rewards or targeted marketing].
  
 **Rock Music Listeners**
+![email  asc 2](https://github.com/user-attachments/assets/d6a0caae-32b0-4836-81c8-e8aac6b2bc21)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The slide covers a query that lists all rock music listeners, ordered alphabetically by email. [This information is valuable for targeted communication or promotional efforts].
 
 **Top 10 Rock Music Listener**
