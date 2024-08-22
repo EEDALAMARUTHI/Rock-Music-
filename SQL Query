@@ -1,0 +1,7 @@
+------Total Invoice-----
+SELECT Total
+from invoice
+ORDER BY Total DESC
+LIMIT 3;
+
+----Best Customer-------
