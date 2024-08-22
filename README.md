@@ -11,13 +11,16 @@
 The slide discusses a query designed to find the city with the highest sum of invoice totals, [making it an ideal candidate for hosting a promotional music festival].
 
 **Most Senior Employee**
-![senior emp](https://github.com/user-attachments/assets/b0fc9ab9-17d7-4217-b422-970e5a2aba53)
+![senior empee 2](https://github.com/user-attachments/assets/5ca2c1ac-e1d9-4523-9835-b1c88d69623b)
 
 
 This slide highlights a query that identifies the most senior employee within the organization, [which can be useful for understanding leadership roles or employee hierarchy].
 
 **Customer Who Has Spent the Most Money**
- This slide presents a query to determine the customer who has spent the most money, [thus identifying the top customer for potential rewards or targeted marketing].
+![custm high total 2](https://github.com/user-attachments/assets/2cccf79a-426d-416a-bbf0-c92c1a779724)
+
+
+This slide presents a query to determine the customer who has spent the most money, [thus identifying the top customer for potential rewards or targeted marketing].
  
 **Rock Music Listeners**
 The slide covers a query that lists all rock music listeners, ordered alphabetically by email. [This information is valuable for targeted communication or promotional efforts].
