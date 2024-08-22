@@ -43,12 +43,44 @@ This slide presents a query to determine the customer who has spent the most mon
 The slide covers a query that lists all rock music listeners, ordered alphabetically by email. [This information is valuable for targeted communication or promotional efforts].
 
 **Top 10 Rock Music Listener**
+![top10 rock 2](https://github.com/user-attachments/assets/d64d042a-6ed6-4191-9b0f-9b4e5338fe9a)
+
+
+
+
+
+
+
+
 This slide outlines a query to find the top 10 rock bands based on their total track count. [This could be used for organizing events or creating playlists].
 
 **Song Length**
+![Milliseconds 2](https://github.com/user-attachments/assets/24ca0ca3-d920-4bdb-907c-0b7eca4c3f4b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This slide explains a query designed to identify tracks longer than the average song length, ordered by length, [which could be useful for creating special playlists or analyzing trends in song duration].
 
 **Top 3 Values of Total Invoice**
+![top 3 invoice 2](https://github.com/user-attachments/assets/13868ee7-0e37-401e-be34-f645244fd208)
+
+
+
 This slide discusses a query that identifies the highest invoice totals, [helping to pinpoint the most valuable transactions or customers].
 
 
