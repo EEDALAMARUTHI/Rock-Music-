@@ -4,6 +4,10 @@
    ****Welcome To Rock Music Concert****
 
 **CityWise Customers Invoice**
+![top 3 invoice 2](https://github.com/user-attachments/assets/082721f2-3b9d-4469-b7b5-fec81e9e3849)
+
+
+
 The slide discusses a query designed to find the city with the highest sum of invoice totals, [making it an ideal candidate for hosting a promotional music festival].
 
 **Most Senior Employee**
