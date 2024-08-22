@@ -11,7 +11,10 @@
 The slide discusses a query designed to find the city with the highest sum of invoice totals, [making it an ideal candidate for hosting a promotional music festival].
 
 **Most Senior Employee**
-Objective: This slide highlights a query that identifies the most senior employee within the organization, [which can be useful for understanding leadership roles or employee hierarchy].
+![senior emp](https://github.com/user-attachments/assets/b0fc9ab9-17d7-4217-b422-970e5a2aba53)
+
+
+This slide highlights a query that identifies the most senior employee within the organization, [which can be useful for understanding leadership roles or employee hierarchy].
 
 **Customer Who Has Spent the Most Money**
  This slide presents a query to determine the customer who has spent the most money, [thus identifying the top customer for potential rewards or targeted marketing].
