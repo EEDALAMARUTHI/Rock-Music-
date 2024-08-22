@@ -19,7 +19,6 @@ This slide highlights a query that identifies the most senior employee within th
 **Customer Who Has Spent the Most Money**
 ![custm high total 2](https://github.com/user-attachments/assets/2cccf79a-426d-416a-bbf0-c92c1a779724)
 
-
 This slide presents a query to determine the customer who has spent the most money, [thus identifying the top customer for potential rewards or targeted marketing].
  
 **Rock Music Listeners**
