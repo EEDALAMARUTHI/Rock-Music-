@@ -4,7 +4,6 @@
    ****Welcome To Rock Music Concert****
 
 **CityWise Customers Invoice**
-"Which city has the best customers?"
 The slide discusses a query designed to find the city with the highest sum of invoice totals, [making it an ideal candidate for hosting a promotional music festival].
 
 **Most Senior Employee**
